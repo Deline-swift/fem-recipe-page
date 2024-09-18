@@ -166,7 +166,7 @@ width: 100%;
 
 }
 @media (min-width:1440px){
- #full-container{
+ #container{
     width: 850px;
  }
 }
