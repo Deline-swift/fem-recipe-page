@@ -146,11 +146,11 @@ width: 100%;
 @media (min-width:720px){
     #full-container{
         background-color:var(--stone100);
-        padding: 500px;
+        padding: 100px;
     }
     #container{
         background-color:var(--white);
-        width: 100px;
+        width: 500px;
         margin: 0 auto;
         border-radius: 15px;
         overflow: hidden;
