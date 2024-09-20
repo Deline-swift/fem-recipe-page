@@ -139,7 +139,7 @@ width: 100%;
     
 }
 #recipe-nutrition table tr td:last-child{
-    color: var(--brown800);
+    color: var(--stone100);
     font-weight: var(--wt-2);
 
 }
