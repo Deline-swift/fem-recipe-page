@@ -122,6 +122,7 @@ font-weight: var(--wt-1);
 .separators{
     border: 1px solid var(--stone150);
     margin-bottom: 25px;
+    font-weight: 300;
 }
 #recipe-nutrition > h2{
      margin-bottom: 15px;
