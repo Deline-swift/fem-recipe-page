@@ -135,11 +135,12 @@ width: 100%;
 }
 #recipe-nutrition table tr td{
     padding: 15px;
-    border-bottom: 1px solid;
+    border-bottom: 1px solid var(--stone150);
+
     
 }
 #recipe-nutrition table tr td:last-child{
-    color: var(--stone100);
+    color: var(--brown800);
     font-weight: var(--wt-2);
 
 }
